@@ -1,6 +1,12 @@
-# bmi_calculator
+# BMI Calculator
 
 BMI Calculator
+
+# Clone and install
+* clone code or download zip folder
+* Open in android studio
+* Do "get pub" to install dependencies
+* Start your simulator and run code!
 
 ## Getting Started
 
